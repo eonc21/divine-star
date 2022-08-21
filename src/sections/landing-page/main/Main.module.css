@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 80%;
+  margin: auto;
+}
+
+.imageContainer {
+  width: 100%;
+  margin: 5rem 0 1rem 0;
+}
+
+.image {
+  width: 90%;
+}

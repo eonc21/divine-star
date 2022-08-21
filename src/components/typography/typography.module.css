@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600&family=Unica+One&display=swap");
+
+.h1 {
+  font-size: 3rem;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  color: rgba(51, 29, 45, 0.8);
+}
+
+.h2 {
+  font-size: 2rem;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  color: rgba(51, 29, 45, 0.8);
+}
+
+.text {
+  font-size: 1.15rem;
+  font-family: "Raleway", sans-serif;
+  font-weight: 400;
+  color: rgba(51, 29, 45);
+}
+
+.labelText {
+  font-size: 1.6em;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  font-family: "Unica One";
+  color: rgba(51, 29, 45, 0.8);
+}
